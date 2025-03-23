@@ -51,7 +51,7 @@ const Navbar = () => {
               style={box}
             >
               <img
-                src="/public/assets/photo2.jpg"
+                src="/assets/photo2.jpg"
                 alt="logo"
                 className="rounded-full h-1/2 skeleton p-12 bg-black"
               />
