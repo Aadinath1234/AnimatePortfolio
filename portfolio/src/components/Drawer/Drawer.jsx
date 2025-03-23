@@ -63,7 +63,7 @@ const Drawer = ({ isOpen, toggleDrawer }) => {
               style={box}
             >
               <img
-                src="/public/assets/photo2.jpg"
+                src="/assets/photo2.jpg"
                 alt="logo"
                 className="rounded-full h-32 w-32 mb-4"
               />
