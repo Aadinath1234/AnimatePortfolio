@@ -61,7 +61,7 @@ function Portfolio() {
                   <div className="carousel rounded-box w-full ">
                     <div className="carousel-item w-full">
                       <img
-                        src="/assets/codemantra1.JPG"
+                        src="/assets/codemantra1.jpg"
                         className="w-full"
                         alt="Tailwind CSS Carousel component"
                       />
