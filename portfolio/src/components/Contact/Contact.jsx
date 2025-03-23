@@ -30,7 +30,7 @@ function Contact() {
     setStatus("Submitting...");
 
     try {
-      const response = await axios.post("https://animateportfolio.onrender.com", formData, {
+      const response = await axios.post("https://animateportfolio.onrender.com/api/contact", formData, {
         headers: {
           "Content-Type": "application/json",
         },
