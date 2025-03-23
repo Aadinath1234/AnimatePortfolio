@@ -48,7 +48,7 @@ function Hero() {
               }`}
             >
               <img
-                src="\public\assets\photo1.jpg"
+                src="/assets/photo1.jpg"
                 className="w-full max-sm:h-full transition-all duration-1000 ease-in-out"
               />
               <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
@@ -68,7 +68,7 @@ function Hero() {
               }`}
             >
               <img
-                src="\public\assets\photo3.jpg"
+                src="/assets/photo3.jpg"
                 className="w-full transition-all duration-1000 ease-in-out"
               />
               <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
@@ -88,7 +88,7 @@ function Hero() {
               }`}
             >
               <img
-                src="\public\assets\photo6.jpg"
+                src="/assets/photo6.jpg"
                 className="w-full transition-all duration-1000 ease-in-out"
               />
               <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
@@ -108,7 +108,7 @@ function Hero() {
               }`}
             >
               <img
-                src="\public\assets\photo5.jpg"
+                src="/assets/photo5.jpg"
                 className="w-full transition-all duration-1000 ease-in-out"
               />
               <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
