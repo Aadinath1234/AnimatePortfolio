@@ -61,14 +61,14 @@ function Portfolio() {
                   <div className="carousel rounded-box w-full ">
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\codemantra1.JPG"
+                        src="/assets/codemantra1.JPG"
                         className="w-full"
                         alt="Tailwind CSS Carousel component"
                       />
                     </div>
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\codemantra2.jpeg"
+                        src="/assets/codemantra2.jpeg"
                         className="w-full"
                         alt="Tailwind CSS Carousel component"
                       />
@@ -148,7 +148,7 @@ function Portfolio() {
                   <div className="carousel rounded-box w-full  ">
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\hack1.jpg"
+                        src="/assets/hack1.jpg"
                         className="w-full"
                         alt="Tailwind CSS Carousel component"
                       />
@@ -156,14 +156,14 @@ function Portfolio() {
 
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\hack3.jpg"
+                        src="/assets/hack3.jpg"
                         className="w-full "
                         alt="Tailwind CSS Carousel component"
                       />
                     </div>
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\hack4.jpg"
+                        src="/assets/hack4.jpg"
                         className="w-full"
                         alt="Tailwind CSS Carousel component"
                       />
@@ -238,7 +238,7 @@ function Portfolio() {
                   <div className="carousel rounded-box w-full  ">
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\version2.jpg"
+                        src="/assets/version2.jpg"
                         className="w-full"
                         alt="Tailwind CSS Carousel component"
                       />
@@ -246,14 +246,14 @@ function Portfolio() {
 
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\version.jpg"
+                        src="/assets/version.jpg"
                         className="w-full "
                         alt="Tailwind CSS Carousel component"
                       />
                     </div>
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\version3.jpg"
+                        src="/assets/version3.jpg"
                         className="w-full"
                         alt="Tailwind CSS Carousel component"
                       />
@@ -327,7 +327,7 @@ function Portfolio() {
                   <div className="carousel rounded-box w-full  ">
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\codeconquest.jpg"
+                        src="/assets/codeconquest.jpg"
                         className="w-full"
                         alt="Tailwind CSS Carousel component"
                       />
@@ -335,7 +335,7 @@ function Portfolio() {
 
                     <div className="carousel-item w-full">
                       <img
-                        src="\public\assets\codeconquest2.jpg"
+                        src="/assets/codeconquest2.jpg"
                         className="w-full "
                         alt="Tailwind CSS Carousel component"
                       />
