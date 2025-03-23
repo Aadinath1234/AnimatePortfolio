@@ -97,7 +97,7 @@ function About() {
               
             >
               <img
-                src="\public\assets\photo2.jpg"
+                src="/assets/photo2.jpg"
                 alt="about"
                 className="w-full h-full  rounded-4xl"
               />
