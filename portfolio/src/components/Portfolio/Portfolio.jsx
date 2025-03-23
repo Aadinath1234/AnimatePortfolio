@@ -270,7 +270,7 @@ function Portfolio() {
                 <div className="card-body">
                   <h2 className="card-title font-mono italic">
                     2024
-                    <div className="badge max-sm:h-10 badge-secondary skeleton text-black bg-blue-400">
+                    <div className="badge max-sm:h-10 sm:h-10 badge-secondary skeleton text-black bg-blue-400">
                       Version Beta 7.0 | MANIT,Bhopal
                     </div>
                   </h2>
