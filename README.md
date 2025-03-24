@@ -127,4 +127,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-This version now includes the correct filenames for your frontend application: **App.jsx** and **main.jsx**. Let me know if there are any other changes you'd like to make!
+
