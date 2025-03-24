@@ -137,7 +137,7 @@ Feel free to fork this project and create pull requests. If you'd like to contri
 5. Open a pull request
 
 ---
-#To Visit Click Here :https://animateportfolio-front.onrender.com/
+#To Visit Project Click Here :https://animateportfolio-front.onrender.com/
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
