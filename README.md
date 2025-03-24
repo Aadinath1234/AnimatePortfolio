@@ -1,8 +1,6 @@
-
-
 # Full Stack Animated Portfolio Website (MERN Stack)
 
-![Portfolio Banner](https://via.placeholder.com/1200x400.png?text=Full+Stack+Animated+Portfolio)  
+
 Welcome to the **Full Stack Animated Portfolio Website** built using the **MERN Stack** (MongoDB, Express, React, Node.js) and integrated with **Tailwind CSS**, **DaisyUI**, and **Framer Motion** for animations. This repository contains both the frontend and backend of a fully functional, animated portfolio website.
 
 ---
