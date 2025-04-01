@@ -444,7 +444,7 @@ function Portfolio() {
               Developed "Minds' Cool," a full-stack project focusing on mental
               health solutions. View it here:
               <a
-                href="https://mindscool.netlify.app"
+                href="https://mentalwellness-5xb5.onrender.com/"
                 className="text-blue-600"
                 target="_blank"
                 rel="noopener noreferrer"
