@@ -125,6 +125,7 @@ function Contact() {
                 value={formData.email}
                 onChange={handleChange}
                 placeholder="Enter your Email"
+                className="w-65 max-sm:w-54 max-lg:w-67"
                 required
               />
             </label>
