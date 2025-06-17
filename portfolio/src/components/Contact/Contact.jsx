@@ -65,7 +65,7 @@ function Contact() {
       </div>
 
       {/* Label and Input Fields */}
-      <form onSubmit={handleSubmit} className="flex flex-row max-sm:flex-col max-lg:flex-col max-lg:ml-4 px-20 max-sm:w-74 max-sm:p-4 py-4 bg-orange-50">
+      <form onSubmit={handleSubmit} className="flex flex-row gap-4 max-sm:flex-col max-lg:flex-col max-lg:ml-4 px-40 max-sm:w-74 max-sm:p-4 py-4 bg-orange-50">
         {/* Username Input */}
         <label className="input validator">
           <svg
@@ -97,9 +97,7 @@ function Contact() {
             title="Only letters, numbers, or dash"
           />
         </label>
-        <p className="validator-hint">
-          Must be 3 to 30 characters containing only letters, numbers, or dash
-        </p>
+        
 
         {/* Email Input */}
         <div className="join">
@@ -147,14 +145,14 @@ function Contact() {
           value={formData.subject}
           onChange={handleChange}
           placeholder="Subject"
-          className="input w-4/5 max-lg:"
+          className="input w-4/5 max-sm:w-65 max-lg:w-78"
         />
         <textarea
           name="message"
           value={formData.message}
           onChange={handleChange}
           placeholder="Message"
-          className="textarea textarea-md w-4/5 p-20 h-4/5"
+          className="textarea textarea-md w-4/5 p-20 h-4/5 max-sm:w-65 max-lg:w-78"
         ></textarea>
 
         <button type="submit" onClick={handleSubmit} className=" btn btn-neutral join-item w-40">Send Message</button>
