@@ -76,15 +76,15 @@ function About() {
           style={box}
         >
           <p className="text-wrap border-2 border-black rounded-2xl p-4">
-            I’m Aadesh Satpute, a passionate Web Developer from Betul, MP, with
-            expertise in the MERN stack. I hold a Bachelor’s Degree in
-            Information Technology and a Diploma in Computer Science. I’ve
-            gained hands-on experience in backend and frontend development
-            through projects like Mind's Cool (MANIT,Bhopal), MovieClip Player
-            and Pizza App, etc. My technical skills include JavaScript, Node.js,
-            Express, MongoDB, PHP, and MySQL. I am committed to creating
-            efficient, scalable web applications and continuously evolving my
-            skills. Explore my work through my projects and GitHub.
+            I’m a dedicated full-stack web developer who has contributed to impactful projects such 
+            as “Mind’s Cool” (Version Beta 7.0, MANIT Bhopal) and “Legal Bodh” (HackOverFlow, Mumbai).
+            These experiences have provided me with hands-on expertise in full-stack development, 
+            working with technologies like MongoDB, Express.js, React.js, Node.js, Nextjs,TS, Tailwindcss,Shadcn and DaisyUI.
+           With a background in Information Technology and strong skills in JavaScript, 
+            HTML, CSS, PHP, and MySQL, I bring a proactive mindset and 
+            a deep commitment to continuous learning. 
+
+
           </p>
         </motion.div>
 
@@ -116,7 +116,7 @@ function About() {
                 </div>
               </div>
               <p className="p-4 font-serif ">
-                Aadesh Satpute, a passionate MERN stack web developer with
+                Aadesh Satpute, a passionate full stack web developer with
                 expertise in backend/frontend, JavaScript, Node.js, and MongoDB.
               </p>
               <div>
