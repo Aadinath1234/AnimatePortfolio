@@ -294,7 +294,7 @@ function Portfolio() {
             }}
         >
                   <p className="font-serif font-normal">
-                    Collaborated with a 4-teammates to design and develop
+                    Collaborated with 4-teammates to design and develop
                     "Mind’s Cool," a solution for people facing issues with
                     mental health.
                   </p>
@@ -376,7 +376,7 @@ function Portfolio() {
             }}
         >
                   <p className="font-serif font-normal">
-                    Collaborated with a 5-teammates to design and develop
+                    Collaborated with  5-teammates to design and develop
                     "website" a solution for people facing issues with currency
                     conversion.Winner of codeconquest.
                   </p>
@@ -443,7 +443,7 @@ function Portfolio() {
               <time className="font-mono italic">2025</time>
               <div className="text-lg font-black">MentalWellness | Fullstack</div>
               Developed "MentalWellness" a full-stack project focusing on mental
-              health solutions. View it here:
+              health solutions.
               <a
                 href="https://mentalwellness-5xb5.onrender.com/"
                 className="text-blue-600"
@@ -479,7 +479,7 @@ function Portfolio() {
                 Movie Clip Player | Fullstack
               </div>
               Developed a movie clip player that allows users to browse and play
-              clips from movies with a sleek user interface. View it here:
+              clips from movies with a sleek user interface. 
               <a
                 href="https://mernprojects-client.onrender.com/"
                 className="text-blue-600"
