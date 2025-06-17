@@ -409,7 +409,8 @@ function Portfolio() {
                 MoodTracker App | Nextjs+TS
               </div>
                Log emotions,
-              add notes, view trends, set reminders—enhanced with subtle animations.
+              add notes, view trends, set reminders—enhanced
+              with subtle animations.
               <a
                 href="https://mood-trackerr.vercel.app"
                 className="text-blue-600"
