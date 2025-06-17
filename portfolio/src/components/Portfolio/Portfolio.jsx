@@ -404,7 +404,7 @@ function Portfolio() {
               </svg>
             </div>
             <div className="timeline-start mb-10 md:text-end ">
-              <time className="font-mono italic">2024</time>
+              <time className="font-mono italic">2025</time>
               <div className="text-lg font-black">
                 MoodTracker App | Nextjs+TS
               </div>
@@ -440,7 +440,7 @@ function Portfolio() {
               </svg>
             </div>
             <div className="timeline-end md:mb-10 ">
-              <time className="font-mono italic">2024</time>
+              <time className="font-mono italic">2025</time>
               <div className="text-lg font-black">MentalWellness | Fullstack</div>
               Developed "MentalWellness" a full-stack project focusing on mental
               health solutions. View it here:
@@ -509,7 +509,7 @@ function Portfolio() {
               </svg>
             </div>
             <div className="timeline-end md:mb-10">
-              <time className="font-mono italic">2024</time>
+              <time className="font-mono italic">2025</time>
               <div className="text-lg font-black">
                 Task Manager | Node + Django 
               </div>
