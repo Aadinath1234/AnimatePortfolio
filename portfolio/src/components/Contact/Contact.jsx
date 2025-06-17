@@ -65,7 +65,7 @@ function Contact() {
       </div>
 
       {/* Label and Input Fields */}
-      <form onSubmit={handleSubmit} className="flex flex-row max-sm:flex-col max-lg:flex-col max-lg:ml-4 px-40 max-sm:w-74 max-sm:p-4 py-4 bg-orange-50">
+      <form onSubmit={handleSubmit} className="flex flex-row max-sm:flex-col max-lg:flex-col max-lg:ml-4 px-20 max-sm:w-74 max-sm:p-4 py-4 bg-orange-50">
         {/* Username Input */}
         <label className="input validator">
           <svg
