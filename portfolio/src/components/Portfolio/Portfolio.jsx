@@ -294,7 +294,7 @@ function Portfolio() {
             }}
         >
                   <p className="font-serif font-normal">
-                    Collaborated with a 4-person team to design and develop
+                    Collaborated with a 4-teammates to design and develop
                     "Mind’s Cool," a solution for people facing issues with
                     mental health.
                   </p>
@@ -376,9 +376,9 @@ function Portfolio() {
             }}
         >
                   <p className="font-serif font-normal">
-                    Collaborated with a 5-person team to design and develop
+                    Collaborated with a 5-teammates to design and develop
                     "website" a solution for people facing issues with currency
-                    conversion.
+                    conversion.Winner of codeconquest.
                   </p>
                   </motion.div>
                 </div>
@@ -406,17 +406,17 @@ function Portfolio() {
             <div className="timeline-start mb-10 md:text-end ">
               <time className="font-mono italic">2024</time>
               <div className="text-lg font-black">
-                Restaurant Web App | Frontend
+                MoodTracker App | Nextjs+TS
               </div>
-              Developed a frontend for a restaurant web app to allow users to
-              browse the menu and place orders. View it here:
+               Log emotions,
+              add notes, view trends, set reminders—enhanced with subtle animations.
               <a
-                href="https://food-maza.netlify.app"
+                href="https://mood-trackerr.vercel.app"
                 className="text-blue-600"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Restaurant Web App
+                Mood Tracker Web App 
               </a>
             </div>
             <hr />
@@ -440,8 +440,8 @@ function Portfolio() {
             </div>
             <div className="timeline-end md:mb-10 ">
               <time className="font-mono italic">2024</time>
-              <div className="text-lg font-black">Mind’s Cool | Fullstack</div>
-              Developed "Minds' Cool," a full-stack project focusing on mental
+              <div className="text-lg font-black">MentalWellness | Fullstack</div>
+              Developed "MentalWellness" a full-stack project focusing on mental
               health solutions. View it here:
               <a
                 href="https://mentalwellness-5xb5.onrender.com/"
@@ -449,7 +449,7 @@ function Portfolio() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Minds’ Cool
+                MentalWellness 
               </a>
             </div>
             <hr />
@@ -510,17 +510,19 @@ function Portfolio() {
             <div className="timeline-end md:mb-10">
               <time className="font-mono italic">2024</time>
               <div className="text-lg font-black">
-                E-commerce Web App | Frontend
+                Task Manager | Node + Django 
               </div>
-              Developed a frontend for an e-commerce web app using modern web
-              technologies. View it here:
+             A full-stack web app using React, Tailwind CSS, and DaisyUI frontend, 
+              with Node.js/MongoDB for auth and Django/SQLite for 
+              task management, supporting task CRUD and CSV export: 
+
               <a
-                href="https://ecommerce-item.netlify.app"
+                href="https://taskmanager-psi-six.vercel.app/"
                 className="text-blue-600"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                E-commerce Web App
+               Task Manager 
               </a>
             </div>
           </li>
