@@ -116,7 +116,6 @@ function About() {
                 </div>
               </div>
               <p className="p-4 font-serif ">
-                Aadesh Satpute, a passionate full stack web developer with
                 expertise in backend/frontend, JavaScript, Node.js, and MongoDB.
               </p>
               <div>
