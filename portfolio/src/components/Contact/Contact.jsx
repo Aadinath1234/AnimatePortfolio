@@ -104,7 +104,7 @@ function Contact() {
           <div>
             <label className="input validator join-item">
               <svg
-                className="h-[1em] opacity-50 w-30"
+                className="h-[1em] opacity-50 "
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
               >
