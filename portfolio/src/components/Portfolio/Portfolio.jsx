@@ -518,7 +518,7 @@ function Portfolio() {
                     }}
                   >
                     <p className="font-serif font-normal">
-                      Designed and developed frontend using React, TailwindCSS,
+                       Developed frontend using React, TailwindCSS,
                       and Framer Motion.
                     </p>
                   </motion.div>
