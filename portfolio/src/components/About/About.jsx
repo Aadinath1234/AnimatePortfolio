@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import "../../App.css";
 import Drawer from "../Drawer/Drawer.jsx"; // Assuming the Drawer component is in the same folder
@@ -76,9 +77,7 @@ function About() {
           style={box}
         >
           <p className="text-wrap border-2 border-black rounded-2xl p-4">
-            I’m a dedicated full-stack web developer who has contributed to impactful projects such 
-            as “Mind’s Cool” (Version Beta 7.0, MANIT Bhopal) and “Legal Bodh” (HackOverFlow, Mumbai).
-            These experiences have provided me with hands-on expertise in full-stack development, 
+            I’m a dedicated full-stack web developer 
             working with technologies like MongoDB, Express.js, React.js, Node.js, Nextjs,TS, Tailwindcss,Shadcn and DaisyUI.
            With a background in Information Technology and strong skills in JavaScript, 
             HTML, CSS, PHP, and MySQL, I bring a proactive mindset and 
@@ -132,20 +131,14 @@ function About() {
                     </thead>
                     <tbody>
                       {/* row 1 */}
-                      <tr className="hover:bg-amber-50">
-                        <th>
-                          <FaArrowCircleRight />
-                        </th>
-                        <td>DOB</td>
-                        <td>12/09/2000</td>
-                      </tr>
+                     
                       {/* row 2 */}
                       <tr className="hover:bg-base-300">
                         <th>
                           <FaArrowCircleRight />
                         </th>
                         <td>Phone </td>
-                        <td>7225012026</td>
+                        <td>9179562548</td>
                       </tr>
                       {/* row 3 */}
                       <tr className="hover:bg-orange-50">
